@@ -1,2 +1,3 @@
 New file to add to repo, so I can make some changes and see what Git is all about!
 Maybe type a new line of text?
+Yet another line of text! Why?
